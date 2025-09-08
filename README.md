@@ -25,7 +25,7 @@ A powerful RAG (Retrieval-Augmented Generation) system that allows users to uplo
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/stark-18/docqu.git
    cd docqa
    ```
 
